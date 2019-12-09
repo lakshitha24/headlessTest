@@ -1,6 +1,0 @@
-# Igonore everything
-/*
-#but not these files
-!.gitignore
-/headless/*
-!/headless/node_modules
